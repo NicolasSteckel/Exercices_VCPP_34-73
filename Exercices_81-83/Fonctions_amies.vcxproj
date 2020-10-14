@@ -142,9 +142,11 @@
     <ClCompile Include="Ami.cpp" />
     <ClCompile Include="Point.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Vecteur.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Point.h" />
+    <ClInclude Include="Vecteur.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
